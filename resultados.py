@@ -4,9 +4,6 @@ Modulo para trabalharmos com os resultados de provas. E obter os alunos aprovado
 
 # -*- coding: utf-8 -*-
 
-import pandas as pd
-
-
 def search_bin(lista1, lista2):
     '''
     Função que compara duas listas e retorna nomes semelhantes.
